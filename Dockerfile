@@ -19,6 +19,4 @@ RUN go build
 
 EXPOSE 8080
 
-#for the culture
-
 CMD [ "/app/news-demo-starter-files" ]
